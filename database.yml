@@ -1,8 +1,8 @@
 development:
-  dialect: postgres
+  dialect: sqlite3
   database: golang_buffalo_development
-  user: postgres
-  password: postgres
+  user: sqlite3
+  password: sqlite3
   host: 127.0.0.1
   pool: 5
 
